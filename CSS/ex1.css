@@ -1,21 +1,19 @@
-*{
-    padding: 0;
-    margin: 0;
-    text-align: center;
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
 }
 
-h2{
-    margin-top: 1cm;
-    font-size: 30px;
+h2 {
+  margin-top: 1cm;
+  font-size: 30px;
 }
-p{
-    margin: 0.2cm;
+p {
+  margin: 0.2cm;
 }
-#quote{
-    margin-top: 1cm;
-    
-    background-color: aquamarine;
-    font-size: 1cm;
+#quote {
+  margin-top: 1cm;
 
-
+  background-color: aquamarine;
+  font-size: 1cm;
 }

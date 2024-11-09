@@ -1,4 +1,3 @@
-
 //toán tử 3 ngôi: Ternary operator
 
 // var course= {
@@ -15,7 +14,6 @@
 
 // var result = course.coin> 0 ? `${course.coin} Coins`: 'Miễn phí';
 // console.log(result);
-
 
 // output = 1 -->1000
 
@@ -39,13 +37,13 @@
 
 // }
 
-var i = 0; 
+var i = 0;
 var isSucessful = false;
-do{
-    i++;
-    console.log('Nap the lan'+ i);
-    //thành công
-    if(true){
-        isSucessful = true;
-    } 
-} while(! isSucessful && i<3);
+do {
+  i++;
+  console.log("Nap the lan" + i);
+  //thành công
+  if (true) {
+    isSucessful = true;
+  }
+} while (!isSucessful && i < 3);

@@ -72,5 +72,5 @@ function Test(){
 
 Test('Hồng', 'Cúc', 'Mai', 'Đào')
 */
-let Hi = prompt('Nhập vào tên của bạn','Tên')
-alert('Heloo',Hi)
+let Hi = prompt("Nhập vào tên của bạn", "Tên");
+alert("Heloo", Hi);
